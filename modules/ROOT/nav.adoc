@@ -1,0 +1,4 @@
+* xref:how-to-introduction.adoc[Welcome]
+* xref:how-to-general-configuration.adoc[General configuration]
+* xref:how-to-configure-global-API-reviewers.adoc[How to configure global API reviewers]
+* xref:how-to-add-custom-metrics-in-dashboards.adoc[How to add custom metrics in dashboards]
